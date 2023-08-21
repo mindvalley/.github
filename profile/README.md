@@ -1,4 +1,5 @@
 # Welcome to Mindvalley's GitHub Profile
+![covergit](https://github.com/mindvalley/.github/assets/10405180/468fa4a6-cf75-44ef-8c4a-6251b170b5ab)
 
 ## Discover a Better You with Mindvalley
 
